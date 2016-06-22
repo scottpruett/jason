@@ -1,4 +1,4 @@
-# Jason
+# Fork
 
 A simple landing-page for my own personal site [jason.sc](http://jason.sc). Feel free to use it as a starting point for your own page.
 
